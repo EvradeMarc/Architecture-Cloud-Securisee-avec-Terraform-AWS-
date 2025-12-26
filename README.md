@@ -125,6 +125,7 @@ Le projet met en œuvre une **architecture client / serveur** avec un **bastion 
 terraform init
 terraform plan
 terraform apply
+```
 
 
 
